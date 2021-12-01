@@ -1,5 +1,3 @@
-"use strict";
-
 const fs = require("fs");
 
 const inputStr = fs.readFileSync("./input.txt", "utf-8");
