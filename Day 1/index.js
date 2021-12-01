@@ -41,3 +41,7 @@ function partTwo(depths) {
   }
   return increased;
 }
+
+// Answers
+console.log("Part One: ", partOne(inputArr));
+console.log("Part two: ", partTwo(inputArr));
